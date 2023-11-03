@@ -14,7 +14,7 @@ namespace ServerViewYa.Controllers
             _context = context;
             client = new HttpClient();
             client.DefaultRequestHeaders.Add("Authorization",
-                "Api-Key AQVNy0iP5LuvWAGUERHMukcmZkDeZisazhg-393d");
+                "Api-Key ТВОЙ API КЛЮЧ");
         }
 
         public async Task Index(string filename)
