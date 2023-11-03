@@ -1,3 +1,5 @@
 # ServerViewYa
 
-## Основоной код находится в файлах ApiController и AudiosController
+## Основоной код находиться по пути
+ServerViewYa/Controllers/ApiController
+ServerViewYa/Controllers/AudiosController
